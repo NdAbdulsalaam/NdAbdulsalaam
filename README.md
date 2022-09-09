@@ -19,7 +19,7 @@ Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/
 - 🤔 I’m looking for help with writing sophisticated codes for analytical automation
 - 💬 Ask me about how to grow your business
 
-#### 1.0.1. Top Technologies
+#### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
