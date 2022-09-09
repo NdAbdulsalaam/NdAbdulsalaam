@@ -25,5 +25,5 @@ Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#) 
 [![SQL](https://img.shields.io/badge/-BigQuery-F0DB4F?style=for-the-badge&labelColor=red&logo=mysql&logoColor=F0DB4F)](#)
-[![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=white&logo=R&logoColor=007acc)](#)
+[![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=purple&logo=R&logoColor=007acc)](#)
 [![Excel Badge](https://img.shields.io/badge/-excel-3C873A?style=for-the-badge&labelColor=grey&logo=microsoft&logoColor=3C873A)](#) 
