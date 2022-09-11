@@ -21,12 +21,9 @@ Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/
 
 ### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
-
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/-BigQuery-F0DB4F?style=for-the-badge&labelColor=red&logo=mysql&logoColor=F0DB4F)](#)
 [![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=purple&logo=R&logoColor=007acc)](#)
-
 
 
 ### Spreadsheets 
