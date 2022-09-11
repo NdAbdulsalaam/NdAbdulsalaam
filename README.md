@@ -30,5 +30,4 @@ Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/
 
 
 ### Spreadsheets 
-<img src="https://img.icons8.com/color/48/000000/ms-excel.png"/> 
-<img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
+<img src="https://img.icons8.com/color/48/000000/ms-excel.png"/><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
