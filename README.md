@@ -19,7 +19,7 @@ Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/
 - 🤔 I’m looking for help with writing sophisticated codes for analytical automation
 - 💬 Ask me about how to grow your business
 
-### Top Technologies
+### Languages
 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/-BigQuery-F0DB4F?style=for-the-badge&labelColor=red&logo=mysql&logoColor=F0DB4F)](#)
@@ -28,3 +28,9 @@ Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/
 
 ### Spreadsheets 
 <img src="https://img.icons8.com/color/48/000000/ms-excel.png"/><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
+
+
+#### Tools:
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
