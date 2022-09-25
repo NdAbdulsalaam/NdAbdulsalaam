@@ -1,7 +1,7 @@
 
 ## Hi I'm Nurudeen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/nurudeenabdulsalaam). I lookforward to bring further success to healthcare and pharmaceutical supply chain with predictive analysis. .
+Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/nurudeenabdulsalaam). I lookforward to bring further success to pharmaceutical supply chain, healthcare, or change the world with predictive analysis.
 
 :gem: Meet me!
 
@@ -14,7 +14,7 @@ Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on google capstone Chicago Divvy cyclist analysis
-- 🌱 I’m currently learning R 
+- 🌱 I’m currently learning Business Forecasting with Excel 
 - 👯 I’m looking to collaborate on predictive analysis
 - 🤔 I’m looking for help with writing sophisticated codes for analytical automation
 - 💬 Ask me about how to grow your business
@@ -30,7 +30,7 @@ Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/
 <img src="https://img.icons8.com/color/48/000000/ms-excel.png"/><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
 
 
-### Tools:
+### Tools
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
