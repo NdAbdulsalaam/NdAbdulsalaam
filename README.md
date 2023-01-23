@@ -8,6 +8,7 @@ Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/i
 [![Linkedin Badge](https://img.shields.io/badge/-Nurudeen-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nurudeenabdulsalaam/)
 [![Mail Badge](https://img.shields.io/badge/-olaitansalaam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:olaitansalaam2012@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/nurudeenabdulsalaam/)
+[![Credly Badge](https://img.shields.io/badge/-Credyl-c0692c?style=flat&labelColor=c0692c&logo=credly&logoColor=white)](https://www.credly.com/earner/earned)
 
 
 
@@ -26,7 +27,7 @@ Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/i
 [![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=purple&logo=R&logoColor=007acc)](#)
 
 
-### Packages 
+### Packages  
 <img src="https://img.icons8.com/color/48/000000/power-bi.png"/><img src="https://img.icons8.com/color/48/000000/ms-excel.png"/><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
 
 
