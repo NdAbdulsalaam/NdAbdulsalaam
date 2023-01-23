@@ -20,18 +20,33 @@ Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/i
 - 🤔 I’m looking for help with writing sophisticated codes for analytical automation
 - 💬 Ask me about how to find trend and grow your business
 
+## Technical Skills
 ### Languages
-
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<!-- 
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/-BigQuery-F0DB4F?style=for-the-badge&labelColor=red&logo=mysql&logoColor=F0DB4F)](#)
-[![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=purple&logo=R&logoColor=007acc)](#)
+[![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=purple&logo=R&logoColor=007acc)](#) -->
 
+### Database 
+<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>  ![image](https://user-images.githubusercontent.com/96980544/148251598-1437697a-668f-4548-b0a8-d5b0cea89f0c.png)
 
-### Packages  
-<img src="https://img.icons8.com/color/48/000000/power-bi.png"/><img src="https://img.icons8.com/color/48/000000/ms-excel.png"/><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
+### BI  
+<img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+
+### Spreedsheets
+<img src="https://img.icons8.com/color/48/000000/ms-excel.png"/><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
 
 
 ### Tools
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+### Framework (Learning...)
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nurudeenabdulsalaam&show_icons=true" alt="Nurudeen Abdulsalaam"/> </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nurudeenabdulsalaam" alt="Nurudeen Abdulsalaam" /> </p>
