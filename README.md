@@ -1,11 +1,11 @@
 
 ## Hi I'm Nurudeen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/nurudeenabdulsalaam). I lookforward to bring further success to pharmaceutical supply chain, healthcare, or change the world with predictive analysis.
+Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/in/nurudeenabdulsalaam). I lookforward to bring further success to pharmaceutical supply chain, healthcare, or change the world with predictive analysis.
 
 :gem: Meet me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nurudeen-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://github.com/nurudeenabdulsalaam/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nurudeen-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nurudeenabdulsalaam/)
 [![Mail Badge](https://img.shields.io/badge/-olaitansalaam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:olaitansalaam2012@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/nurudeenabdulsalaam/)
 
