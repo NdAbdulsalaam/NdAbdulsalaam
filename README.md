@@ -13,7 +13,7 @@ Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/i
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on building a blog app with python
+- 🔭 I’m currently working on building a flask blogging app with python
 - 🌱 I’m currently learning flask 
 - 👯 I’m looking to collaborate on predictive analysis
 - 🤔 I’m looking for help with writing sophisticated codes for analytical automation
