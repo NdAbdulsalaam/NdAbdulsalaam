@@ -13,11 +13,11 @@ Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on google capstone Chicago Divvy cyclist analysis
-- 🌱 I’m currently learning Business Forecasting with Excel 
+- 🔭 I’m currently working on building a blog app with python
+- 🌱 I’m currently learning flask 
 - 👯 I’m looking to collaborate on predictive analysis
 - 🤔 I’m looking for help with writing sophisticated codes for analytical automation
-- 💬 Ask me about how to grow your business
+- 💬 Ask me about how to find trend and grow your business
 
 ### Languages
 
@@ -26,8 +26,10 @@ Nurudeen is a data analyst and pharmacist [LinkedIn](http://www.linkedin.com/in/
 [![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=purple&logo=R&logoColor=007acc)](#)
 
 
-### Spreadsheets 
-<img src="https://img.icons8.com/color/48/000000/ms-excel.png"/><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
+### Packages 
+<img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/000000/ms-excel.png"/>
+<img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
 
 
 ### Tools
