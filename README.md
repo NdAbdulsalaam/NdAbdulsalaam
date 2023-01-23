@@ -31,13 +31,15 @@ Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/i
 [![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=purple&logo=R&logoColor=007acc)](#) -->
 
 ### Database 
-<img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>  ![image](https://user-images.githubusercontent.com/96980544/148251598-1437697a-668f-4548-b0a8-d5b0cea89f0c.png)
+<code><img height="40" src="https://th.bing.com/th/id/OIP.70QAFDratVZogpj-PPf5ZAAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.1&pid=1.7"/></code>
+<code><img height="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/96980544/148251598-1437697a-668f-4548-b0a8-d5b0cea89f0c.png"/></code>
 
 ### BI  
 <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
 
 ### Spreedsheets
-<img src="https://img.icons8.com/color/48/000000/ms-excel.png"/><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
+<img src="https://img.icons8.com/color/48/000000/ms-excel.png"/>  <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
 
 
 ### Tools
