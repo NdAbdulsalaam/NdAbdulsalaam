@@ -36,10 +36,11 @@ Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/i
 <code><img height="40" src="https://user-images.githubusercontent.com/96980544/148251598-1437697a-668f-4548-b0a8-d5b0cea89f0c.png"/></code>
 
 ### BI  
-<img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+<code><img src="https://img.icons8.com/color/48/000000/power-bi.png"/></code>
 
 ### Spreedsheets
-<img src="https://img.icons8.com/color/48/000000/ms-excel.png"/>  <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/>
+<code><img src="https://img.icons8.com/color/48/000000/ms-excel.png"/></code> 
+<code><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></code>
 
 
 ### Tools
