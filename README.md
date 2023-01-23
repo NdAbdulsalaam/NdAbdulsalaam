@@ -51,5 +51,5 @@ Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/i
 ### Framework (Learning...)
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nurudeenabdulsalaam&show_icons=true" alt="Nurudeen Abdulsalaam"/> </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nurudeenabdulsalaam" alt="Nurudeen Abdulsalaam" /> </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nurudeenabdulsalaam&show_icons=true" alt="Nurudeen Abdulsalaam"/> </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nurudeenabdulsalaam" alt="Nurudeen Abdulsalaam" /> </p> -->
