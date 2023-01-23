@@ -38,7 +38,7 @@ Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/i
 ### BI  
 <code><img src="https://img.icons8.com/color/48/000000/power-bi.png"/></code>
 
-### Spreedsheets
+### Spreadsheets
 <code><img src="https://img.icons8.com/color/48/000000/ms-excel.png"/></code> 
 <code><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></code>
 
