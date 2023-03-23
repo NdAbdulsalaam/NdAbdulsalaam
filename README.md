@@ -1,7 +1,7 @@
 
 ## Hi I'm Nurudeen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/in/nurudeenabdulsalaam). I lookforward to bring further success to pharmaceutical supply chain, healthcare, or change the world with predictive analysis.
+Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/in/nurudeenabdulsalaam). I look forward to bringing further success to the pharmaceutical supply chain, and healthcare, or changing the world with predictive analysis.
 
 :gem: Meet me!
 
