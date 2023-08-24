@@ -6,6 +6,7 @@ My skill set includes expertise in data science, analysis, and supply chain mana
 
 Currently, I am focused on my keen interest in machine learning engineering within the pharmaceutical supply chain. I develop predictive models and algorithms to ensure consistent drug availability, optimize efficiency, and reduce healthcare costs.
 
+
 :gem: Meet me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nurudeen-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/NdAbdulsalaam/)
@@ -17,11 +18,11 @@ Currently, I am focused on my keen interest in machine learning engineering with
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on building a flask blogging app with python
+<!-- - 🔭 I’m currently working on building a flask blogging app with python
 - 🌱 I’m currently learning flask 
 - 👯 I’m looking to collaborate on predictive analysis
 - 🤔 I’m looking for help with writing sophisticated codes for analytical automation
-- 💬 Ask me about how to find trend and grow your business
+- 💬 Ask me about how to find trend and grow your business -->
 
 ## Technical Skills
 ### Languages
