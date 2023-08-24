@@ -1,10 +1,14 @@
 ## Hi, I'm Nurudeen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/in/nurudeenabdulsalaam). I look forward to bringing further success to the pharmaceutical supply chain and healthcare or changing the world with predictive analysis.
+Nurudeen is a pharmacist and data scientist with a passion for supply chain management and logistics. 
+
+My skill set includes expertise in data science, analysis, and supply chain management, combined with a deep understanding of the pharmaceutical domain. I am also proficient in the Django framework, empowering me to develop robust solutions.
+
+Currently, I am focused on my keen interest in machine learning engineering within the pharmaceutical supply chain. I develop predictive models and algorithms to ensure consistent drug availability, optimize efficiency, and reduce healthcare costs.
 
 :gem: Meet me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nurudeen-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nurudeenabdulsalaam/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nurudeen-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/NdAbdulsalaam/)
 [![Mail Badge](https://img.shields.io/badge/-olaitansalaam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:olaitansalaam2012@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/nurudeenabdulsalaam/)
 [![Credly Badge](https://img.shields.io/badge/-Credly-c0692c?style=flat&labelColor=c0692c&logo=credly&logoColor=white)](https://www.credly.com/earner/earned)
@@ -44,10 +48,10 @@ Nurudeen is a data scientist and pharmacist [LinkedIn](http://www.linkedin.com/i
 
 ### Tools
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### Framework (Learning...)
+### Framework
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nurudeenabdulsalaam&show_icons=true" alt="Nurudeen Abdulsalaam"/> </h1>
