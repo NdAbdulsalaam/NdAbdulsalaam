@@ -19,7 +19,7 @@ Currently, I am focused on my keen interest in machine learning engineering with
 <!-- TODO: Add last video link -->
 
 <!-- - 🔭 I’m currently working on building a flask blogging app with python
-- 🌱 I’m currently learning flask 
+- 🌱 I’m currently learning flask
 - 👯 I’m looking to collaborate on predictive analysis
 - 🤔 I’m looking for help with writing sophisticated codes for analytical automation
 - 💬 Ask me about how to find trend and grow your business -->
@@ -48,12 +48,15 @@ Currently, I am focused on my keen interest in machine learning engineering with
 
 
 ### Tools
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-### Framework
+
+### Frameworks
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nurudeenabdulsalaam&show_icons=true" alt="Nurudeen Abdulsalaam"/> </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nurudeenabdulsalaam" alt="Nurudeen Abdulsalaam" /> </p> -->
