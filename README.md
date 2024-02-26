@@ -37,7 +37,9 @@ Nurudeen is focused on his interest in the application of machine learning to th
 <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
 
 ### Cloud Platforms
-<code><img height="40" src="https://user-images.githubusercontent.com/96980544/148251598-1437697a-668f-4548-b0a8-d5b0cea89f0c.png"/></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/azure-1.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code>
 
 ### BI  
 <code><img src="https://img.icons8.com/color/48/000000/power-bi.png"/></code>
