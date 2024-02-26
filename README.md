@@ -32,7 +32,6 @@ Nurudeen is focused on his interest in the application of machine learning to th
 ### Database 
 <code><img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"></code>
-<code><img height="40" src="https://th.bing.com/th/id/OIP.70QAFDratVZogpj-PPf5ZAAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.1&pid=1.7"/></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
 
 
