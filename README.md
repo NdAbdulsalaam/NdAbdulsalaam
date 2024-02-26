@@ -1,10 +1,10 @@
 ## Hi, I'm Nurudeen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-
+<!-- 
 Nurudeen is a pharmacist and data scientist with a passion for pharmaceutical supply chain management and logistics. 
 
 Nurudeen's skill set includes expertise in data science and analytics, machine learning, and supply chain management, combined with a deep understanding of the pharmaceutical domain. He is also proficient in the Django framework, empowering him to deploy robust solutions.
 
-Nurudeen is focused on his interest in the application of machine learning to the pharmaceutical supply chain. And the use of predictive models and algorithms to ensure consistent drug availability, optimize efficiency, and reduce healthcare costs.
+Nurudeen is focused on his interest in the application of machine learning to the pharmaceutical supply chain. And the use of predictive models and algorithms to ensure consistent drug availability, optimize efficiency, and reduce healthcare costs. -->
 
 🔭 I’m currently working on building data APIs  
 🌱 I’m currently learning backend development  
