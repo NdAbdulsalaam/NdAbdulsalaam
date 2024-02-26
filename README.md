@@ -28,7 +28,6 @@ Nurudeen is focused on his interest in the application of machine learning to th
 <code><img height="40" src="https://img.icons8.com/color/48/000000/python.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/sql.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
-<code><img height="40" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/></code>
 
 ### Database 
 <code><img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
@@ -50,8 +49,7 @@ Nurudeen is focused on his interest in the application of machine learning to th
 
 
 ### Machine Learning
-<code><img height="40" src="https://img.icons8.com/color/48/000000/pandas.png"/></code>
-<code><img height="40" src="https://numpy.org/images/logos/numpy.svg"/></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"/></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/></code>
 
