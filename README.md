@@ -36,25 +36,16 @@ Nurudeen is focused on his interest in the application of machine learning to th
 <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
 
 
-### BI & Spreadsheets
+### Data Analysis
+<code><img height="40" src="https://img.icons8.com/color/48/000000/pandas.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/power-bi.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/ms-excel.png"/></code> 
-<code><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></code>
 
 
-### Tools
+### Dev Tools
 <code><img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"></code>
-
-
-### Data Analysis: Python
-<code><img height="40" src="https://img.icons8.com/color/48/000000/pandas.png"/></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/matplotlib.png"/></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/matplotlib.png"/></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/seaborn.png"/></code>
-<code><img height="40" src="https://matplotlib.org/stable/_static/logo2_compressed.svg"/></code>
-<code><img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/></code>
 
 
 ### Machine Learning
