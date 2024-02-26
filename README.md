@@ -41,10 +41,8 @@ Nurudeen is focused on his interest in the application of machine learning to th
 <code><img height="40" src="https://img.icons8.com/color/48/000000/azure-1.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code>
 
-### BI  
+### BI & Spreadsheets
 <code><img src="https://img.icons8.com/color/48/000000/power-bi.png"/></code>
-
-### Spreadsheets
 <code><img src="https://img.icons8.com/color/48/000000/ms-excel.png"/></code> 
 <code><img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></code>
 
