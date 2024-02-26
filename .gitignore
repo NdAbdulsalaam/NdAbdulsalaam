@@ -1,4 +1,6 @@
+image*/
+
 draft*
 .env
-config*
-image*/
+pydantic*
+__pycache__/
