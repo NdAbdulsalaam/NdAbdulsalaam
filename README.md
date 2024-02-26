@@ -6,11 +6,11 @@ Nurudeen's skill set includes expertise in data science and analytics, machine l
 
 Nurudeen is focused on his interest in the application of machine learning to the pharmaceutical supply chain. And the use of predictive models and algorithms to ensure consistent drug availability, optimize efficiency, and reduce healthcare costs.
 
-- 🔭 I’m currently working on building a data APIs
-- 🌱 I’m currently learning backend development
-- 👯 I’m looking to collaborate on data-oriented backends
-- 🤔 I’m looking for help with horning backend development skills 
-- 💬 Ask me about how to make sense of data
+🔭 I’m currently working on building data APIs  
+🌱 I’m currently learning backend development  
+👯 I’m looking to collaborate on data-oriented backends  
+🤔 I’m looking for help with horning backend development skills  
+💬 Ask me about how to make sense of data  
 
 :gem: Reach Out!
 
