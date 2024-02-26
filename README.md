@@ -33,11 +33,7 @@ Nurudeen is focused on his interest in the application of machine learning to th
 ### Database 
 <code><img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/sqlite.png"></code>
-<code><img height="40" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-sqlite-flatart-icons-flat-flatarticons.png"></code>
-<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/29/29413.svg"/></code>
-<code><img height="40" src="https://www.iconfinder.com/data/icons/database-icons-4/48/Database_SQLite-512.png"/></code>
-
+<code><img height="40" src="https://th.bing.com/th/id/OIP.70QAFDratVZogpj-PPf5ZAAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.1&pid=1.7"/></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
 
 ### Cloud Platforms
