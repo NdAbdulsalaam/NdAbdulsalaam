@@ -26,8 +26,7 @@ Nurudeen is focused on his interest in the application of machine learning to th
 ## Technical Skills
 ### Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/sql.png">
-</code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 </code>
 <code><img height="40" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/></code>
