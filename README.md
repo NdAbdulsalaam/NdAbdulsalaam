@@ -6,7 +6,7 @@ Nurudeen's skill set includes expertise in data science and analytics, machine l
 
 Nurudeen is focused on his interest in the application of machine learning to the pharmaceutical supply chain. And the use of predictive models and algorithms to ensure consistent drug availability, optimize efficiency, and reduce healthcare costs.
 
-:gem: Meet me!
+:gem: Reach Out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nurudeen-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/NdAbdulsalaam/)
 [![Mail Badge](https://img.shields.io/badge/-olaitansalaam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:olaitansalaam2012@gmail.com)
@@ -26,12 +26,11 @@ Nurudeen is focused on his interest in the application of machine learning to th
 ## Technical Skills
 ### Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/sql.png">
+</code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+</code>
 <code><img height="40" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<!-- 
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/-BigQuery-F0DB4F?style=for-the-badge&labelColor=red&logo=mysql&logoColor=F0DB4F)](#)
-[![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=purple&logo=R&logoColor=007acc)](#) -->
 
 ### Database 
 <code><img height="40" src="https://th.bing.com/th/id/OIP.70QAFDratVZogpj-PPf5ZAAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.1&pid=1.7"/></code>
