@@ -27,13 +27,16 @@ Nurudeen is focused on his interest in the application of machine learning to th
 ### Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-</code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/></code>
 
 ### Database 
-<code><img height="40" src="https://th.bing.com/th/id/OIP.70QAFDratVZogpj-PPf5ZAAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.1&pid=1.7"/></code>
-<code><img height="40" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/sqlite.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
+
+### Cloud Platforms
 <code><img height="40" src="https://user-images.githubusercontent.com/96980544/148251598-1437697a-668f-4548-b0a8-d5b0cea89f0c.png"/></code>
 
 ### BI  
