@@ -25,16 +25,19 @@ Nurudeen is focused on his interest in the application of machine learning to th
 
 ## Technical Skills
 ### Languages
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/python.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
 <code><img height="40" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/></code>
 
 ### Database 
 <code><img height="40" src="https://img.icons8.com/color/48/000000/postgreesql.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/sqlite.png"></code>
+<code><img height="40" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-sqlite-flatart-icons-flat-flatarticons.png"></code>
+<code><img height="40" src="https://www.flaticon.com/svg/static/icons/svg/29/29413.svg"/></code>
+<code><img height="40" src="https://www.iconfinder.com/data/icons/database-icons-4/48/Database_SQLite-512.png"/></code>
+
 <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
 
 ### Cloud Platforms
@@ -50,12 +53,8 @@ Nurudeen is focused on his interest in the application of machine learning to th
 
 ### Tools
 <code><img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/jupyter.png"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"></code>
 
 
 ### Frameworks
