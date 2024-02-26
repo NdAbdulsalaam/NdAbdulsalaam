@@ -6,6 +6,12 @@ Nurudeen's skill set includes expertise in data science and analytics, machine l
 
 Nurudeen is focused on his interest in the application of machine learning to the pharmaceutical supply chain. And the use of predictive models and algorithms to ensure consistent drug availability, optimize efficiency, and reduce healthcare costs.
 
+- 🔭 I’m currently working on building a data APIs
+- 🌱 I’m currently learning backend development
+- 👯 I’m looking to collaborate on data-oriented backends
+- 🤔 I’m looking for help with horning backend development skills 
+- 💬 Ask me about how to make sense of data
+
 :gem: Reach Out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nurudeen-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/NdAbdulsalaam/)
@@ -13,15 +19,6 @@ Nurudeen is focused on his interest in the application of machine learning to th
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/nurudeenabdulsalaam/)
 [![Credly Badge](https://img.shields.io/badge/-Credly-c0692c?style=flat&labelColor=c0692c&logo=credly&logoColor=white)](https://www.credly.com/earner/earned)
 
-
-
-<!-- TODO: Add last video link -->
-
-<!-- - 🔭 I’m currently working on building a flask blogging app with python
-- 🌱 I’m currently learning flask
-- 👯 I’m looking to collaborate on predictive analysis
-- 🤔 I’m looking for help with writing sophisticated codes for analytical automation
-- 💬 Ask me about how to find trend and grow your business -->
 
 ## Technical Skills
 ### Languages
