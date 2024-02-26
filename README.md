@@ -36,10 +36,6 @@ Nurudeen is focused on his interest in the application of machine learning to th
 <code><img height="40" src="https://th.bing.com/th/id/OIP.70QAFDratVZogpj-PPf5ZAAAAA?w=150&h=150&c=7&r=0&o=5&dpr=1.1&pid=1.7"/></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png"></code>
 
-### Cloud Platforms
-<code><img height="40" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/azure-1.png"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code>
 
 ### BI & Spreadsheets
 <code><img src="https://img.icons8.com/color/48/000000/power-bi.png"/></code>
@@ -57,4 +53,10 @@ Nurudeen is focused on his interest in the application of machine learning to th
 <code><img height="40" src="https://img.icons8.com/color/48/000000/django.png"/></code>
 <code><img height="40" src="https://img.icons8.com/plasticine/100/000000/react.png"/></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
+
+
+### Cloud Platforms
+<code><img height="40" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/azure-1.png"></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code>
 
