@@ -49,6 +49,13 @@ Nurudeen is focused on his interest in the application of machine learning to th
 <code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"></code>
 
 
+### Machine Learning
+<code><img height="40" src="https://img.icons8.com/color/48/000000/pandas.png"/></code>
+<code><img height="40" src="https://numpy.org/images/logos/numpy.svg"/></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/></code>
+
+
 ### Libraries & Frameworks
 <code><img height="40" src="https://img.icons8.com/color/48/000000/django.png"/></code>
 <code><img height="40" src="https://img.icons8.com/plasticine/100/000000/react.png"/></code>
