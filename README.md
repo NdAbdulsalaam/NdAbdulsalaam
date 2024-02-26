@@ -53,10 +53,8 @@ Nurudeen is focused on his interest in the application of machine learning to th
 <code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"></code>
 
 
-### Frameworks
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+### Libraries & Frameworks
+<code><img height="40" src="https://img.icons8.com/color/48/000000/django.png"/></code>
+<code><img height="40" src="https://img.icons8.com/plasticine/100/000000/react.png"/></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
 
-
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nurudeenabdulsalaam&show_icons=true" alt="Nurudeen Abdulsalaam"/> </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nurudeenabdulsalaam" alt="Nurudeen Abdulsalaam" /> </p> -->
