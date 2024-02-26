@@ -48,6 +48,15 @@ Nurudeen is focused on his interest in the application of machine learning to th
 <code><img height="40" src="https://img.icons8.com/color/48/000000/git.png"></code>
 
 
+### Data Analysis: Python
+<code><img height="40" src="https://img.icons8.com/color/48/000000/pandas.png"/></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/matplotlib.png"/></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/matplotlib.png"/></code>
+<code><img height="40" src="https://img.icons8.com/color/48/000000/seaborn.png"/></code>
+<code><img height="40" src="https://matplotlib.org/stable/_static/logo2_compressed.svg"/></code>
+<code><img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/></code>
+
+
 ### Machine Learning
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"/></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/></code>
