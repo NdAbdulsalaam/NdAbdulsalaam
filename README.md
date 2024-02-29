@@ -12,8 +12,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nurudeen-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/NdAbdulsalaam/)
 [![Mail Badge](https://img.shields.io/badge/-olaitansalaam-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:olaitansalaam2012@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/nurudeenabdulsalaam/)
-[![Credly Badge](https://img.shields.io/badge/-Credly-c0692c?style=flat&labelColor=c0692c&logo=credly&logoColor=white)](https://www.credly.com/earner/earned)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0077B5?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/nurudeenabdulsalaam/)
+[![Website Badge](https://img.shields.io/badge/-portfolio-c0392b?style=flat&labelColor=c0392b&logo=google&logoColor=white)](https://ndabdulsalaam.github.io/)
+<!-- [![Credly Badge](https://img.shields.io/badge/-Credly-c0692c?style=flat&labelColor=c0692c&logo=credly&logoColor=white)](https://www.credly.com/earner/earned) -->
 
 
 ## Technical Skills
